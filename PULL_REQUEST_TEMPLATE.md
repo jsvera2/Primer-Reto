@@ -1,6 +1,6 @@
 # Information
 
-- Nombre: <YOUR_NAME_HERE>
+- Nombre:Jeff
 - Usuario Discord: <YOUR_DISCORD_USERNAME>
 
 # Solución
